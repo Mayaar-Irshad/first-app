@@ -1,4 +1,5 @@
 const Home = () => {
+    let name = "mario";
     const handleClick = () => {
         console.log("hello, people");
     };
