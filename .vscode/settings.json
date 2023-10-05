@@ -1,0 +1,5 @@
+{
+  "prettier.vueIndentScriptAndStyle": true,
+  "indentRainbow.colorOnWhiteSpaceOnly": true,
+  "prettier.tabWidth": 4
+}
